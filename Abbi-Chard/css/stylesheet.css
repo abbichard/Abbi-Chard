@@ -51,7 +51,13 @@ div#wrapper {
 
 div#wrapper3d {
   -webkit-column-count: 1;
-  width: 1215px;
+  width: 405px;
+  margin: 0 auto;
+}
+
+div#wrapperprint {
+  -webkit-column-count: 1;
+  width: 405px;
   margin: 0 auto;
 }
 
