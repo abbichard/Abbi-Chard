@@ -49,6 +49,12 @@ div#wrapper {
   margin: 0 auto;
 }
 
+div#wrapper3d {
+  -webkit-column-count: 1;
+  width: 1215px;
+  margin: 0 auto;
+}
+
 div#reel {
     align-self: center;
     width: 1215px;
