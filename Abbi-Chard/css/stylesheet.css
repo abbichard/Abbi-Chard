@@ -61,6 +61,20 @@ div#wrapperprint {
   margin: 0 auto;
 }
 
+div#wrapperinfo {
+  -webkit-column-count: 2;
+  width: 1215px;
+  margin: 0 auto;
+  color: grey;
+  font-size: 10px;
+  font-family: adobe-garamond-pro;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2em;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
 div#reel {
     align-self: center;
     width: 1215px;
